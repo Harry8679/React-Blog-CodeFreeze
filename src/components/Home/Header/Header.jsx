@@ -7,6 +7,9 @@ const Header = () => {
         <h1>
             <span>"</span> Blog <span>"</span>
         </h1>
+        <p>
+            Awesome place to make oneself
+        </p>
     </div>
   )
 }
